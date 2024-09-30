@@ -42,6 +42,3 @@
     response = index.as_query_engine().query(query)
     print(response.response)
     ```
-
-## Лицензия
-Проект распространяется под лицензией MIT.
