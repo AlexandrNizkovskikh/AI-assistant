@@ -1,5 +1,14 @@
 # Saiga Mistral 7b NLP Project
 
+## Технологический стек
+
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=huggingface&logoColor=black&style=for-the-badge)
+![LLM](https://img.shields.io/badge/-LLMs-ff8800?style=for-the-badge)
+![LLaMA Index](https://img.shields.io/badge/-LLaMA%20Index-4b0082?style=for-the-badge)
+![Langchain](https://img.shields.io/badge/-Langchain-00FF00?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/-Transformers-FF4500?logo=transformers&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+
 ## Описание
 Проект представляет систему для работы с большими языковыми моделями (LLM) с поддержкой квантования и векторного поиска. Используется модель **Saiga Mistral 7b** для генерации текста, векторизация документов, а также для точного поиска по текстовым данным.
 
