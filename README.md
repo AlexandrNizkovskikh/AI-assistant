@@ -42,3 +42,4 @@
     response = index.as_query_engine().query(query)
     print(response.response)
     ```
+[Открыть в Google Colab](https://colab.research.google.com/drive/1iTkRUYHUXelvHr4S6Utx6B8S7xt0xYFz?usp=sharing)
