@@ -1,5 +1,5 @@
-# Saiga Mistral 7b NLP Project
-
+# AI ассистент
+[***Открыть в Google Colab***](https://colab.research.google.com/drive/1iTkRUYHUXelvHr4S6Utx6B8S7xt0xYFz)
 ## Технологический стек
 
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=huggingface&logoColor=black&style=for-the-badge)
